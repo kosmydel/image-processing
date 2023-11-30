@@ -1,0 +1,4 @@
+*.pt
+!model_snapshot_1000.pt
+wandb
+.ipynb_checkpoints
